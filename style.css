@@ -1,3 +1,7 @@
+body {
+    background-color:darkslategrey;
+}
+
 html {
   box-sizing: border-box;
 }
