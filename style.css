@@ -26,15 +26,16 @@ body {
 .header ul {
     display: flex;
     flex-direction: row;
-    list-style-type: none;
 }
 
-.header-links {
+.header-links ul {
     text-decoration: none;
+    list-style-type: none;
 }
 
 .logo {
     display: flex;
+    justify-content: center;
     color:rgb(4, 9, 8);
     font-size: 50px;
     font-weight: 900;
