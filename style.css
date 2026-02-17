@@ -38,7 +38,18 @@ body {
 }
 
 .header-links a {
+    color: rgb(8, 95, 89);
     text-decoration: none;
+    padding-bottom: 5px;
+    border-bottom: 1px;
+}
+
+.header-links a:visited {
+    color: rgb(8, 95, 89);
+}
+
+.header-links a:hover {
+    color: rgb(24, 169, 160);
 }
 
 .logo {
