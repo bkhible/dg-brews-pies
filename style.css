@@ -29,8 +29,11 @@ body {
 }
 
 .header-links ul {
-    text-decoration: none;
     list-style-type: none;
+}
+
+.header-links a {
+    text-decoration: none;
 }
 
 .logo {
