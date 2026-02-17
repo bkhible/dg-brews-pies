@@ -19,14 +19,13 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: row;
-    margin: 0;
-    padding: 0;
     gap: 20px;
 }
 
 .header ul {
     display: flex;
     flex-direction: row;
+    gap: 15px;
 }
 
 .header-links {
