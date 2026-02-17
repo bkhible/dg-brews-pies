@@ -42,7 +42,6 @@ body {
     color: rgb(8, 95, 89);
     text-decoration: none;
     padding-bottom: 5px;
-    border-bottom: 1px;
 }
 
 .header-links a:visited {
@@ -51,6 +50,7 @@ body {
 
 .header-links a:hover {
     color: rgb(24, 169, 160);
+    border-bottom: 1px solid;
 }
 
 .logo {
