@@ -66,6 +66,7 @@ body {
 
 .logo a, .logo a:visited {
     color:rgb(4, 9, 8);
+    text-decoration: none;
 }
 
 .logo a:hover {
