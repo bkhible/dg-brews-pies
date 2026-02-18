@@ -27,6 +27,7 @@ body {
     flex-direction: row;
     gap: 15px;
     margin: 0;
+    padding: 0;
 }
 
 .header-links {
@@ -65,5 +66,5 @@ body {
 .main {
     display: flex;
     justify-content: center;
-    color: rgb(22, 20, 20);
+    color: rgb(4, 9, 8);
 }
