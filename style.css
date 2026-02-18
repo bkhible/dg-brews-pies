@@ -64,6 +64,14 @@ body {
     padding: 30px;
 }
 
+.logo a, .logo a:visited {
+    color:rgb(4, 9, 8);
+}
+
+.logo a:hover {
+    color: rgb(24, 169, 160);
+}
+
 .main {
     display: flex;
     justify-content: center;
