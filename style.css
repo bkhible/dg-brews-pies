@@ -94,3 +94,14 @@ body {
     width: 60vw;
     text-align: justify;
 }
+
+img {
+    width: auto;
+    padding: 10px;
+    border: 1px solid;
+}
+
+p {
+    font-size: 14px;
+    padding: 2px;
+}
