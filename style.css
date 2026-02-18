@@ -8,6 +8,26 @@ body {
     padding-top: 30px;
 }
 
+a, a:visited {
+    color: rgb(8, 95, 89);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(24, 169, 160);
+}
+
+img {
+    width: auto;
+    padding: 10px;
+    border: 1px solid;
+}
+
+p {
+    font-size: 14px;
+    padding: 2px;
+}
+
 .hero {
     display: flex;
     flex-direction: column;
@@ -93,15 +113,4 @@ body {
     border-top: 1px solid;
     width: 60vw;
     text-align: justify;
-}
-
-img {
-    width: auto;
-    padding: 10px;
-    border: 1px solid;
-}
-
-p {
-    font-size: 14px;
-    padding: 2px;
 }
